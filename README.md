@@ -5,4 +5,4 @@
 ### Table of Contents
 
 * `Concepts` : Snippets of code, explaining important concepts in React.
-* `StyledComponents` : web app showing how to use the same, in one component.
+* `StylingComponents` : web app showing how to use different ways of scoping styles to their components.
